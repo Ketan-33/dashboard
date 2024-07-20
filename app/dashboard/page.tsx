@@ -8,9 +8,9 @@ export default function page(){
         <div className={styles.wrapper}>
         <div className={styles.main}>
           <div className={styles.cards}>
-            <Card />
-            <Card />
-            <Card />
+            <Card/>
+            <Card/>
+            <Card/>
 
           </div>
           <Transactions />
