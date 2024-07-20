@@ -80,7 +80,7 @@ const menuItems = [
 export default function page(){
     return (
         <div className={styles.container}>
-<div className={styles.user}>
+        <div className={styles.user}>
         <Image
           className={styles.userImage}
           src={"/noavatar.png"}
